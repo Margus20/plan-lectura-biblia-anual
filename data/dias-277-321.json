@@ -1,0 +1,321 @@
+{
+  "titulo": "Plan de Lectura de la Biblia en un Año",
+  "descripcion": "Un recorrido completo por las Escrituras en 365 días.",
+  "lecturas": [
+    {
+      "dia": 277,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 9",
+      "segunda_lectura": "Ester 15, 6-7",
+      "salmo_proverbios": "Proverbios 21:9-12"
+    },
+    {
+      "dia": 278,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 10",
+      "segunda_lectura": "Ester 8, 16",
+      "salmo_proverbios": "Proverbios 21:13-16"
+    },
+    {
+      "dia": 279,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 11",
+      "segunda_lectura": "Ester 9-11",
+      "salmo_proverbios": "Proverbios 21:17-20"
+    },
+    {
+      "dia": 280,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 12",
+      "segunda_lectura": "Ester 10-12",
+      "salmo_proverbios": "Proverbios 21:21-24"
+    },
+    {
+      "dia": 281,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 13",
+      "segunda_lectura": "Malaquías 1-4",
+      "salmo_proverbios": "Proverbios 21:25-28"
+    },
+    {
+      "dia": 282,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 1",
+      "segunda_lectura": "Eclesiástico 1-3",
+      "salmo_proverbios": "Proverbios 21:29-31"
+    },
+    {
+      "dia": 283,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 2",
+      "segunda_lectura": "Eclesiástico 4-6",
+      "salmo_proverbios": "Proverbios 22:1-4"
+    },
+    {
+      "dia": 284,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 3",
+      "segunda_lectura": "Eclesiástico 7-9",
+      "salmo_proverbios": "Proverbios 22:5-8"
+    },
+    {
+      "dia": 285,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 4",
+      "segunda_lectura": "Eclesiástico 10-12",
+      "salmo_proverbios": "Proverbios 22:9-12"
+    },
+    {
+      "dia": 286,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 5",
+      "segunda_lectura": "Eclesiástico 13-15",
+      "salmo_proverbios": "Proverbios 22:13-16"
+    },
+    {
+      "dia": 287,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 6",
+      "segunda_lectura": "Eclesiástico 16-18",
+      "salmo_proverbios": "Proverbios 22:17-21"
+    },
+    {
+      "dia": 288,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 7",
+      "segunda_lectura": "Eclesiástico 19-21",
+      "salmo_proverbios": "Proverbios 22:22-25"
+    },
+    {
+      "dia": 289,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 8",
+      "segunda_lectura": "Eclesiástico 22-23",
+      "salmo_proverbios": "Proverbios 22:26-29"
+    },
+    {
+      "dia": 290,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 9",
+      "segunda_lectura": "Eclesiástico 24-25",
+      "salmo_proverbios": "Proverbios 23:1-4"
+    },
+    {
+      "dia": 291,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 10",
+      "segunda_lectura": "Eclesiástico 26-27",
+      "salmo_proverbios": "Proverbios 23:5-8"
+    },
+    {
+      "dia": 292,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 11",
+      "segunda_lectura": "Eclesiástico 28-29",
+      "salmo_proverbios": "Proverbios 23:9-12"
+    },
+    {
+      "dia": 293,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 12",
+      "segunda_lectura": "Eclesiástico 30-31",
+      "salmo_proverbios": "Proverbios 23:13-16"
+    },
+    {
+      "dia": 294,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 13",
+      "segunda_lectura": "Eclesiástico 32-33",
+      "salmo_proverbios": "Proverbios 23:17-21"
+    },
+    {
+      "dia": 295,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 14",
+      "segunda_lectura": "Eclesiástico 34-35",
+      "salmo_proverbios": "Proverbios 23:22-25"
+    },
+    {
+      "dia": 296,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 15",
+      "segunda_lectura": "Eclesiástico 36-37",
+      "salmo_proverbios": "Proverbios 23:26-28"
+    },
+    {
+      "dia": 297,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "1 Macabeos 16",
+      "segunda_lectura": "Eclesiástico 38-39",
+      "salmo_proverbios": "Proverbios 23:29-35"
+    },
+    {
+      "dia": 298,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 1",
+      "segunda_lectura": "Eclesiástico 40-41",
+      "salmo_proverbios": "Proverbios 24:1-7"
+    },
+    {
+      "dia": 299,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 2",
+      "segunda_lectura": "Eclesiástico 42-44",
+      "salmo_proverbios": "Proverbios 24:8-9"
+    },
+    {
+      "dia": 300,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 3",
+      "segunda_lectura": "Eclesiástico 45-46",
+      "salmo_proverbios": "Proverbios 24:10-12"
+    },
+    {
+      "dia": 301,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 4",
+      "segunda_lectura": "Eclesiástico 47-49",
+      "salmo_proverbios": "Proverbios 24:13-16"
+    },
+    {
+      "dia": 302,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 5",
+      "segunda_lectura": "Eclesiástico 50-51",
+      "salmo_proverbios": "Proverbios 24:17-20"
+    },
+    {
+      "dia": 303,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 6",
+      "segunda_lectura": "Sabiduría 1-2",
+      "salmo_proverbios": "Proverbios 24:21-26"
+    },
+    {
+      "dia": 304,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 7",
+      "segunda_lectura": "Sabiduría 3-4",
+      "salmo_proverbios": "Proverbios 24:27-29"
+    },
+    {
+      "dia": 305,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 8",
+      "segunda_lectura": "Sabiduría 5-6",
+      "salmo_proverbios": "Proverbios 24:30-34"
+    },
+    {
+      "dia": 306,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 9",
+      "segunda_lectura": "Sabiduría 7-8",
+      "salmo_proverbios": "Proverbios 25:1-3"
+    },
+    {
+      "dia": 307,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 10",
+      "segunda_lectura": "Sabiduría 9-10",
+      "salmo_proverbios": "Proverbios 25:4-7"
+    },
+    {
+      "dia": 308,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 11",
+      "segunda_lectura": "Sabiduría 11-12",
+      "salmo_proverbios": "Proverbios 25:8-10"
+    },
+    {
+      "dia": 309,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 12",
+      "segunda_lectura": "Sabiduría 13-14",
+      "salmo_proverbios": "Proverbios 25:11-14"
+    },
+    {
+      "dia": 310,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 13",
+      "segunda_lectura": "Sabiduría 15-16",
+      "salmo_proverbios": "Proverbios 25:15-17"
+    },
+    {
+      "dia": 311,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 14",
+      "segunda_lectura": "Sabiduría 17-18",
+      "salmo_proverbios": "Proverbios 25:18-20"
+    },
+    {
+      "dia": 312,
+      "periodo": "Rebelión de los Macabeos",
+      "primera_lectura": "2 Macabeos 15",
+      "segunda_lectura": "Sabiduría 19",
+      "salmo_proverbios": "Proverbios 25:21-23"
+    },
+    {
+      "dia": 313,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 1-2",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 25:24-26"
+    },
+    {
+      "dia": 314,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 3-5",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 25:27-28"
+    },
+    {
+      "dia": 315,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 6-8",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 26:1-3"
+    },
+    {
+      "dia": 316,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 9-10",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 26:4-6"
+    },
+    {
+      "dia": 317,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 11-12",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 26:7-9"
+    },
+    {
+      "dia": 318,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 13-16",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 26:10-12"
+    },
+    {
+      "dia": 319,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 17-19",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 26:13-16"
+    },
+    {
+      "dia": 320,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 20-22:38",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 26:17-19"
+    },
+    {
+      "dia": 321,
+      "periodo": "Cumplimiento Mesiánico",
+      "primera_lectura": "Lucas 22:39-24",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 26:20-23"
+    }
+  ]
+}
