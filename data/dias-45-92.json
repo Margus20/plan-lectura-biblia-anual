@@ -1,0 +1,342 @@
+{
+  "titulo": "Plan de Lectura de la Biblia en un Año",
+  "descripcion": "Un recorrido completo por las Escrituras en 365 días.",
+  "lecturas": [
+    {
+      "dia": 45,
+      "periodo": "Egipto y el Éxodo",
+      "primera_lectura": "Éxodo 29",
+      "segunda_lectura": "Levítico 21",
+      "salmo_proverbios": "Salmo 119:89-176"
+    },
+    {
+      "dia": 46,
+      "periodo": "Egipto y el Éxodo",
+      "primera_lectura": "Éxodo 30-31",
+      "segunda_lectura": "Levítico 22",
+      "salmo_proverbios": "Salmo 115"
+    },
+    {
+      "dia": 47,
+      "periodo": "Egipto y el Éxodo",
+      "primera_lectura": "Éxodo 32",
+      "segunda_lectura": "Levítico 23",
+      "salmo_proverbios": "Salmo 80"
+    },
+    {
+      "dia": 48,
+      "periodo": "Egipto y el Éxodo",
+      "primera_lectura": "Éxodo 33-34",
+      "segunda_lectura": "Levítico 24",
+      "salmo_proverbios": "Salmo 81"
+    },
+    {
+      "dia": 49,
+      "periodo": "Egipto y el Éxodo",
+      "primera_lectura": "Éxodo 35-36",
+      "segunda_lectura": "Levítico 25",
+      "salmo_proverbios": "Salmo 82"
+    },
+    {
+      "dia": 50,
+      "periodo": "Egipto y el Éxodo",
+      "primera_lectura": "Éxodo 37-38",
+      "segunda_lectura": "Levítico 26",
+      "salmo_proverbios": "Salmo 83"
+    },
+    {
+      "dia": 51,
+      "periodo": "Egipto y el Éxodo",
+      "primera_lectura": "Éxodo 39-40",
+      "segunda_lectura": "Levítico 27",
+      "salmo_proverbios": "Salmo 84"
+    },
+    {
+      "dia": 52,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 1",
+      "segunda_lectura": "Deuteronomio 1",
+      "salmo_proverbios": "Salmo 85"
+    },
+    {
+      "dia": 53,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 2",
+      "segunda_lectura": "Deuteronomio 2",
+      "salmo_proverbios": "Salmo 87"
+    },
+    {
+      "dia": 54,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 3",
+      "segunda_lectura": "Deuteronomio 3",
+      "salmo_proverbios": "Salmo 88"
+    },
+    {
+      "dia": 55,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 4",
+      "segunda_lectura": "Deuteronomio 4",
+      "salmo_proverbios": "Salmo 89"
+    },
+    {
+      "dia": 56,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 5",
+      "segunda_lectura": "Deuteronomio 5",
+      "salmo_proverbios": "Salmo 90"
+    },
+    {
+      "dia": 57,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 6",
+      "segunda_lectura": "Deuteronomio 6",
+      "salmo_proverbios": "Salmo 91"
+    },
+    {
+      "dia": 58,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 7",
+      "segunda_lectura": "Deuteronomio 7",
+      "salmo_proverbios": "Salmo 92"
+    },
+    {
+      "dia": 59,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 8-9",
+      "segunda_lectura": "Deuteronomio 8",
+      "salmo_proverbios": "Salmo 93"
+    },
+    {
+      "dia": 60,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 10",
+      "segunda_lectura": "Deuteronomio 9",
+      "salmo_proverbios": "Salmo 10"
+    },
+    {
+      "dia": 61,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 11",
+      "segunda_lectura": "Deuteronomio 10",
+      "salmo_proverbios": "Salmo 33"
+    },
+    {
+      "dia": 62,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 12-13",
+      "segunda_lectura": "Deuteronomio 11",
+      "salmo_proverbios": "Salmo 94"
+    },
+    {
+      "dia": 63,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 14",
+      "segunda_lectura": "Deuteronomio 12",
+      "salmo_proverbios": "Salmo 95"
+    },
+    {
+      "dia": 64,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 15",
+      "segunda_lectura": "Deuteronomio 13-14",
+      "salmo_proverbios": "Salmo 96"
+    },
+    {
+      "dia": 65,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 16",
+      "segunda_lectura": "Deuteronomio 15-16",
+      "salmo_proverbios": "Salmo 97"
+    },
+    {
+      "dia": 66,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 17",
+      "segunda_lectura": "Deuteronomio 17-18",
+      "salmo_proverbios": "Salmo 98"
+    },
+    {
+      "dia": 67,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 18",
+      "segunda_lectura": "Deuteronomio 19-20",
+      "salmo_proverbios": "Salmo 99"
+    },
+    {
+      "dia": 68,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 19-20",
+      "segunda_lectura": "Deuteronomio 21",
+      "salmo_proverbios": "Salmo 100"
+    },
+    {
+      "dia": 69,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 21",
+      "segunda_lectura": "Deuteronomio 22",
+      "salmo_proverbios": "Salmo 102"
+    },
+    {
+      "dia": 70,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 22",
+      "segunda_lectura": "Deuteronomio 23",
+      "salmo_proverbios": "Salmo 105"
+    },
+    {
+      "dia": 71,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 23",
+      "segunda_lectura": "Deuteronomio 24-25",
+      "salmo_proverbios": "Salmo 106"
+    },
+    {
+      "dia": 72,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 24-25",
+      "segunda_lectura": "Deuteronomio 26",
+      "salmo_proverbios": "Salmo 107"
+    },
+    {
+      "dia": 73,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 26",
+      "segunda_lectura": "Deuteronomio 27",
+      "salmo_proverbios": "Salmo 111"
+    },
+    {
+      "dia": 74,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 27-28",
+      "segunda_lectura": "Deuteronomio 28",
+      "salmo_proverbios": "Salmo 112"
+    },
+    {
+      "dia": 75,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 29-30",
+      "segunda_lectura": "Deuteronomio 29",
+      "salmo_proverbios": "Salmo 113"
+    },
+    {
+      "dia": 76,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 31",
+      "segunda_lectura": "Deuteronomio 30",
+      "salmo_proverbios": "Salmo 116"
+    },
+    {
+      "dia": 77,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 32",
+      "segunda_lectura": "Deuteronomio 31",
+      "salmo_proverbios": "Salmo 117"
+    },
+    {
+      "dia": 78,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 33",
+      "segunda_lectura": "Deuteronomio 32",
+      "salmo_proverbios": "Salmo 118"
+    },
+    {
+      "dia": 79,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 34",
+      "segunda_lectura": "Deuteronomio 33",
+      "salmo_proverbios": "Salmo 120"
+    },
+    {
+      "dia": 80,
+      "periodo": "Peregrinación en el Desierto",
+      "primera_lectura": "Números 35-36",
+      "segunda_lectura": "Deuteronomio 34",
+      "salmo_proverbios": "Salmo 121"
+    },
+    {
+      "dia": 81,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 1-4",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 123"
+    },
+    {
+      "dia": 82,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 5-7",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 125"
+    },
+    {
+      "dia": 83,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 8-9",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 126"
+    },
+    {
+      "dia": 84,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 10-11",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 128"
+    },
+    {
+      "dia": 85,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 12-14",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 129"
+    },
+    {
+      "dia": 86,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 15-18",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 130"
+    },
+    {
+      "dia": 87,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 19-21",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 131"
+    },
+    {
+      "dia": 88,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Josué 22-24",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 132"
+    },
+    {
+      "dia": 89,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Jueces 1-3",
+      "segunda_lectura": "Rut 1",
+      "salmo_proverbios": "Salmo 133"
+    },
+    {
+      "dia": 90,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Jueces 4-5",
+      "segunda_lectura": "Rut 2",
+      "salmo_proverbios": "Salmo 134"
+    },
+    {
+      "dia": 91,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Jueces 6-8",
+      "segunda_lectura": "Rut 3",
+      "salmo_proverbios": "Salmo 135"
+    },
+    {
+      "dia": 92,
+      "periodo": "Conquista y Jueces",
+      "primera_lectura": "Jueces 9-11",
+      "segunda_lectura": "Rut 4",
+      "salmo_proverbios": "Salmo 137"
+    }
+  ]
+}
