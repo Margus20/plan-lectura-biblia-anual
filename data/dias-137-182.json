@@ -1,0 +1,328 @@
+{
+  "titulo": "Plan de Lectura de la Biblia en un Año",
+  "descripcion": "Un recorrido completo por las Escrituras en 365 días.",
+  "lecturas": [
+    {
+      "dia": 137,
+      "periodo": "Reino Real",
+      "primera_lectura": "2 Samuel 19",
+      "segunda_lectura": "1 Crónicas 24",
+      "salmo_proverbios": "Salmo 38"
+    },
+    {
+      "dia": 138,
+      "periodo": "Reino Real",
+      "primera_lectura": "2 Samuel 20",
+      "segunda_lectura": "1 Crónicas 25",
+      "salmo_proverbios": "Salmo 39"
+    },
+    {
+      "dia": 139,
+      "periodo": "Reino Real",
+      "primera_lectura": "2 Samuel 21",
+      "segunda_lectura": "1 Crónicas 26",
+      "salmo_proverbios": "Salmo 40"
+    },
+    {
+      "dia": 140,
+      "periodo": "Reino Real",
+      "primera_lectura": "2 Samuel 22",
+      "segunda_lectura": "1 Crónicas 27",
+      "salmo_proverbios": "Salmo 41"
+    },
+    {
+      "dia": 141,
+      "periodo": "Reino Real",
+      "primera_lectura": "2 Samuel 23",
+      "segunda_lectura": "1 Crónicas 28",
+      "salmo_proverbios": "Salmo 42"
+    },
+    {
+      "dia": 142,
+      "periodo": "Reino Real",
+      "primera_lectura": "2 Samuel 24",
+      "segunda_lectura": "1 Crónicas 29",
+      "salmo_proverbios": "Salmo 30"
+    },
+    {
+      "dia": 143,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 1",
+      "segunda_lectura": "2 Crónicas 1",
+      "salmo_proverbios": "Salmo 43"
+    },
+    {
+      "dia": 144,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 2",
+      "segunda_lectura": "2 Crónicas 2-3",
+      "salmo_proverbios": "Salmo 62"
+    },
+    {
+      "dia": 145,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 3",
+      "segunda_lectura": "2 Crónicas 4-5",
+      "salmo_proverbios": "Salmo 64"
+    },
+    {
+      "dia": 146,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 4",
+      "segunda_lectura": "2 Crónicas 6",
+      "salmo_proverbios": "Salmo 65"
+    },
+    {
+      "dia": 147,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 5",
+      "segunda_lectura": "2 Crónicas 7-8",
+      "salmo_proverbios": "Salmo 66"
+    },
+    {
+      "dia": 148,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 6",
+      "segunda_lectura": "2 Crónicas 9",
+      "salmo_proverbios": "Salmo 4"
+    },
+    {
+      "dia": 149,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 7",
+      "segunda_lectura": "Eclesiastés 1-2",
+      "salmo_proverbios": "Salmo 5"
+    },
+    {
+      "dia": 150,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 8",
+      "segunda_lectura": "Eclesiastés 3-5",
+      "salmo_proverbios": "Salmo 6"
+    },
+    {
+      "dia": 151,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 9",
+      "segunda_lectura": "Eclesiastés 6-7",
+      "salmo_proverbios": "Salmo 7"
+    },
+    {
+      "dia": 152,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 10",
+      "segunda_lectura": "Eclesiastés 8-9",
+      "salmo_proverbios": "Salmo 8"
+    },
+    {
+      "dia": 153,
+      "periodo": "Reino Real",
+      "primera_lectura": "1 Reyes 11",
+      "segunda_lectura": "Eclesiastés 10-12",
+      "salmo_proverbios": "Salmo 9"
+    },
+    {
+      "dia": 154,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 1-2",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 11"
+    },
+    {
+      "dia": 155,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 3-4",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 20"
+    },
+    {
+      "dia": 156,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 5-6",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 21"
+    },
+    {
+      "dia": 157,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 7-8",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 23"
+    },
+    {
+      "dia": 158,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 9-10",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 29"
+    },
+    {
+      "dia": 159,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 11-12",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 67"
+    },
+    {
+      "dia": 160,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 13-14",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 68"
+    },
+    {
+      "dia": 161,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Marcos 15-16",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Salmo 22"
+    },
+    {
+      "dia": 162,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 12",
+      "segunda_lectura": "2 Crónicas 10-11",
+      "salmo_proverbios": "Cantar de los Cantares 1"
+    },
+    {
+      "dia": 163,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 13",
+      "segunda_lectura": "2 Crónicas 12-13",
+      "salmo_proverbios": "Cantar de los Cantares 2"
+    },
+    {
+      "dia": 164,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 14",
+      "segunda_lectura": "2 Crónicas 14-15",
+      "salmo_proverbios": "Cantar de los Cantares 3"
+    },
+    {
+      "dia": 165,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 15-16",
+      "segunda_lectura": "2 Crónicas 16-17",
+      "salmo_proverbios": "Cantar de los Cantares 4"
+    },
+    {
+      "dia": 166,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 17-18",
+      "segunda_lectura": "2 Crónicas 18-19",
+      "salmo_proverbios": "Cantar de los Cantares 5"
+    },
+    {
+      "dia": 167,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 19-20",
+      "segunda_lectura": "2 Crónicas 20",
+      "salmo_proverbios": "Cantar de los Cantares 6"
+    },
+    {
+      "dia": 168,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 21",
+      "segunda_lectura": "2 Crónicas 21-22",
+      "salmo_proverbios": "Cantar de los Cantares 7"
+    },
+    {
+      "dia": 169,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "1 Reyes 22",
+      "segunda_lectura": "2 Crónicas 23",
+      "salmo_proverbios": "Cantar de los Cantares 8"
+    },
+    {
+      "dia": 170,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 1",
+      "segunda_lectura": "2 Crónicas 24",
+      "salmo_proverbios": "Salmo 69"
+    },
+    {
+      "dia": 171,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 2",
+      "segunda_lectura": "2 Crónicas 25",
+      "salmo_proverbios": "Salmo 70"
+    },
+    {
+      "dia": 172,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 3",
+      "segunda_lectura": "2 Crónicas 26-27",
+      "salmo_proverbios": "Salmo 72"
+    },
+    {
+      "dia": 173,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 4",
+      "segunda_lectura": "2 Crónicas 28",
+      "salmo_proverbios": "Salmo 127"
+    },
+    {
+      "dia": 174,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 5",
+      "segunda_lectura": "Oseas 1-3",
+      "salmo_proverbios": "Salmo 101"
+    },
+    {
+      "dia": 175,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 6-7",
+      "segunda_lectura": "Oseas 4-7",
+      "salmo_proverbios": "Salmo 103"
+    },
+    {
+      "dia": 176,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 8",
+      "segunda_lectura": "Oseas 8-10",
+      "salmo_proverbios": "Salmo 108"
+    },
+    {
+      "dia": 177,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 9",
+      "segunda_lectura": "Oseas 11-14",
+      "salmo_proverbios": "Salmo 109"
+    },
+    {
+      "dia": 178,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 10",
+      "segunda_lectura": "Amós 1-3",
+      "salmo_proverbios": "Salmo 110"
+    },
+    {
+      "dia": 179,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 11-12",
+      "segunda_lectura": "Amós 4-6",
+      "salmo_proverbios": "Salmo 122"
+    },
+    {
+      "dia": 180,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 13-14",
+      "segunda_lectura": "Amós 7-9",
+      "salmo_proverbios": "Salmo 124"
+    },
+    {
+      "dia": 181,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 15",
+      "segunda_lectura": "Jonás 1-4",
+      "salmo_proverbios": "Salmo 138"
+    },
+    {
+      "dia": 182,
+      "periodo": "Reino Dividido",
+      "primera_lectura": "2 Reyes 16",
+      "segunda_lectura": "Miqueas 1-4",
+      "salmo_proverbios": "Salmo 139"
+    }
+  ]
+}
