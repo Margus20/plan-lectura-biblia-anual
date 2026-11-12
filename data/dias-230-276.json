@@ -1,0 +1,335 @@
+{
+  "titulo": "Plan de Lectura de la Biblia en un Año",
+  "descripcion": "Un recorrido completo por las Escrituras en 365 días.",
+  "lecturas": [
+    {
+      "dia": 230,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 7",
+      "segunda_lectura": "Ezequiel 36",
+      "salmo_proverbios": "Proverbios 14:29-32"
+    },
+    {
+      "dia": 231,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 8",
+      "segunda_lectura": "Ezequiel 37-38",
+      "salmo_proverbios": "Proverbios 14:33-35"
+    },
+    {
+      "dia": 232,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 9",
+      "segunda_lectura": "Ezequiel 39",
+      "salmo_proverbios": "Proverbios 15:1-4"
+    },
+    {
+      "dia": 233,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 10-11",
+      "segunda_lectura": "Ezequiel 40",
+      "salmo_proverbios": "Proverbios 15:5-8"
+    },
+    {
+      "dia": 234,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 12-13",
+      "segunda_lectura": "Ezequiel 41-42",
+      "salmo_proverbios": "Proverbios 15:9-12"
+    },
+    {
+      "dia": 235,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 14-15",
+      "segunda_lectura": "Ezequiel 43-44",
+      "salmo_proverbios": "Proverbios 15:13-16"
+    },
+    {
+      "dia": 236,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 16-17",
+      "segunda_lectura": "Ezequiel 45-46",
+      "salmo_proverbios": "Proverbios 15:17-20"
+    },
+    {
+      "dia": 237,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 18-19",
+      "segunda_lectura": "Ezequiel 47-48",
+      "salmo_proverbios": "Proverbios 15:21-24"
+    },
+    {
+      "dia": 238,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 20-21",
+      "segunda_lectura": "Daniel 1-2",
+      "salmo_proverbios": "Proverbios 15:25-28"
+    },
+    {
+      "dia": 239,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 22",
+      "segunda_lectura": "Daniel 3",
+      "salmo_proverbios": "Proverbios 15:29-33"
+    },
+    {
+      "dia": 240,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 23",
+      "segunda_lectura": "Daniel 4-5",
+      "salmo_proverbios": "Proverbios 16:1-4"
+    },
+    {
+      "dia": 241,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 24-25",
+      "segunda_lectura": "Daniel 6-7",
+      "salmo_proverbios": "Proverbios 16:5-8"
+    },
+    {
+      "dia": 242,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 26-27",
+      "segunda_lectura": "Daniel 8-9",
+      "salmo_proverbios": "Proverbios 16:9-12"
+    },
+    {
+      "dia": 243,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 28-29",
+      "segunda_lectura": "Daniel 10-11",
+      "salmo_proverbios": "Proverbios 16:13-16"
+    },
+    {
+      "dia": 244,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 30",
+      "segunda_lectura": "Daniel 12-13",
+      "salmo_proverbios": "Proverbios 16:17-20"
+    },
+    {
+      "dia": 245,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 31",
+      "segunda_lectura": "Daniel 14",
+      "salmo_proverbios": "Proverbios 16:21-24"
+    },
+    {
+      "dia": 246,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 32",
+      "segunda_lectura": "Judit 1-2",
+      "salmo_proverbios": "Proverbios 16:25-28"
+    },
+    {
+      "dia": 247,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 33-34",
+      "segunda_lectura": "Judit 3-5",
+      "salmo_proverbios": "Proverbios 16:29-33"
+    },
+    {
+      "dia": 248,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 35-36",
+      "segunda_lectura": "Judit 6-7",
+      "salmo_proverbios": "Proverbios 17:1-4"
+    },
+    {
+      "dia": 249,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 37-38",
+      "segunda_lectura": "Judit 8-9",
+      "salmo_proverbios": "Proverbios 17:5-8"
+    },
+    {
+      "dia": 250,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 39-40",
+      "segunda_lectura": "Judit 10-11",
+      "salmo_proverbios": "Proverbios 17:9-12"
+    },
+    {
+      "dia": 251,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 41-42",
+      "segunda_lectura": "Judit 12-14",
+      "salmo_proverbios": "Proverbios 17:13-16"
+    },
+    {
+      "dia": 252,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 43-44",
+      "segunda_lectura": "Judit 15-16",
+      "salmo_proverbios": "Proverbios 17:17-20"
+    },
+    {
+      "dia": 253,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 45-46",
+      "segunda_lectura": "Lamentaciones 1",
+      "salmo_proverbios": "Proverbios 17:21-24"
+    },
+    {
+      "dia": 254,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 47-48",
+      "segunda_lectura": "Lamentaciones 2",
+      "salmo_proverbios": "Proverbios 18:1-4"
+    },
+    {
+      "dia": 255,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 49-50",
+      "segunda_lectura": "Lamentaciones 3",
+      "salmo_proverbios": "Proverbios 18:5-8"
+    },
+    {
+      "dia": 256,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 51",
+      "segunda_lectura": "Lamentaciones 4-5",
+      "salmo_proverbios": "Proverbios 18:9-12"
+    },
+    {
+      "dia": 257,
+      "periodo": "Exilio",
+      "primera_lectura": "Jeremías 52",
+      "segunda_lectura": "Abdías 1",
+      "salmo_proverbios": "Proverbios 18:13-16"
+    },
+    {
+      "dia": 258,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 1-4",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 18:17-20"
+    },
+    {
+      "dia": 259,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 5-7",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 18:21-24"
+    },
+    {
+      "dia": 260,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 8-10",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 19:1-4"
+    },
+    {
+      "dia": 261,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 11-13",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 19:5-8"
+    },
+    {
+      "dia": 262,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 14-17",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 19:9-12"
+    },
+    {
+      "dia": 263,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 18-21",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 19:13-16"
+    },
+    {
+      "dia": 264,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 22-24",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 19:17-20"
+    },
+    {
+      "dia": 265,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 25-26",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 19:21-24"
+    },
+    {
+      "dia": 266,
+      "periodo": "Punto de Control Mesiánico",
+      "primera_lectura": "Mateo 27-28",
+      "segunda_lectura": "",
+      "salmo_proverbios": "Proverbios 19:25-29"
+    },
+    {
+      "dia": 267,
+      "periodo": "Retorno",
+      "primera_lectura": "Esdras 1-2",
+      "segunda_lectura": "Hageo 1-2",
+      "salmo_proverbios": "Proverbios 20:1-3"
+    },
+    {
+      "dia": 268,
+      "periodo": "Retorno",
+      "primera_lectura": "Esdras 3-4",
+      "segunda_lectura": "Zacarías 1-3",
+      "salmo_proverbios": "Proverbios 20:4-7"
+    },
+    {
+      "dia": 269,
+      "periodo": "Retorno",
+      "primera_lectura": "Esdras 5-6",
+      "segunda_lectura": "Zacarías 4-6",
+      "salmo_proverbios": "Proverbios 20:8-11"
+    },
+    {
+      "dia": 270,
+      "periodo": "Retorno",
+      "primera_lectura": "Esdras 7-8",
+      "segunda_lectura": "Zacarías 7-8",
+      "salmo_proverbios": "Proverbios 20:12-15"
+    },
+    {
+      "dia": 271,
+      "periodo": "Retorno",
+      "primera_lectura": "Esdras 9-10",
+      "segunda_lectura": "Zacarías 9-11",
+      "salmo_proverbios": "Proverbios 20:16-19"
+    },
+    {
+      "dia": 272,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 1-2",
+      "segunda_lectura": "Zacarías 12-13",
+      "salmo_proverbios": "Proverbios 20:20-22"
+    },
+    {
+      "dia": 273,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 3",
+      "segunda_lectura": "Zacarías 14",
+      "salmo_proverbios": "Proverbios 20:23-26"
+    },
+    {
+      "dia": 274,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 4-5",
+      "segunda_lectura": "Ester 1-2",
+      "salmo_proverbios": "Proverbios 20:27-30"
+    },
+    {
+      "dia": 275,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 6-7",
+      "segunda_lectura": "Ester 3, 13",
+      "salmo_proverbios": "Proverbios 21:1-4"
+    },
+    {
+      "dia": 276,
+      "periodo": "Retorno",
+      "primera_lectura": "Nehemías 8",
+      "segunda_lectura": "Ester 4, 14",
+      "salmo_proverbios": "Proverbios 21:5-8"
+    }
+  ]
+}
